@@ -1,6 +1,6 @@
 body{
-  background-color: #C74E4E;
-  color: white;
+  background-color: rgb(9,43,53);
+  color: #849A3A;
 }
 
 h1, h2{
@@ -8,20 +8,20 @@ h1, h2{
 }
 
 a{
-  color: #EDAB4A;
+  color: #b58900;
 }
 
 .top-bar, .top-bar ul {
-  background-color: grey;
+  background-color: #073642;
 }
 
 .menu a {
-	color: white;
+	color: #268bd2;
 }
 
 .top-bar ul :hover {
-	background-color: black;
-	color: white;
+	background-color: #002b36;
+	color: #657b83;
 }
 
 #navigationbar {
