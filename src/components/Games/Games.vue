@@ -39,8 +39,8 @@
     data: () => ({
       games: [
         { title: 'Pre-fab homes', src: '/static/doc-images/cards/house.jpg' },
-        { title: 'Favorite road trips', src: '/static/doc-images/cards/road.jpg'},
-        { title: 'Best airlines', src: '/static/doc-images/cards/plane.jpg'}
+        { title: 'Favorite road trips', src: '/static/doc-images/cards/road.jpg' },
+        { title: 'Best airlines', src: '/static/doc-images/cards/plane.jpg' }
       ]
     })
   }
