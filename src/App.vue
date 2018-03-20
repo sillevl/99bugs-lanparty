@@ -21,7 +21,7 @@
         </v-btn>
       </v-toolbar-items>
     </v-toolbar>
-    <v-navigation-drawer v-model="sideNav">
+    <!-- <v-navigation-drawer fixed v-model="sideNav">
       <v-list>
         <v-list-tile 
         v-for="item in menuItems" 
@@ -36,7 +36,7 @@
           </v-list-tile-content>
         </v-list-tile>
       </v-list>
-    </v-navigation-drawer>
+    </v-navigation-drawer> -->
     <main>
       <router-view></router-view>
     </main>
