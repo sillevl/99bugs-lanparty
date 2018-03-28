@@ -23,14 +23,15 @@
 
 <script>
 export default {
-  data () {
+  data() {
     return {
       sideNav: false,
       menuItems: [
-        {icon: 'border_color', title: 'Inschrijven', link: '/subscribe'},
-        {icon: 'poll', title: 'Games', link: '/games'},
-        {icon: 'local_library', title: 'Praktisch', link: '/info'},
-        {icon: 'security', title: 'Reglement', link: '/rules'}
+        { icon: 'home', title: 'Home', link: '/' },
+        { icon: 'border_color', title: 'Inschrijven', link: '/subscribe' },
+        { icon: 'poll', title: 'Games', link: '/games' },
+        { icon: 'local_library', title: 'Praktisch', link: '/info' },
+        { icon: 'security', title: 'Reglement', link: '/rules' }
       ]
     }
   }
