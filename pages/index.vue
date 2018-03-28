@@ -15,6 +15,8 @@
           <div class="text-xs-right">
             <em><small>&mdash; John Leider</small></em>
           </div>
+          mlskjdfmkqjsdfm
+          <nuxt-logo></nuxt-logo>
           <hr class="my-3">
           <a href="https://nuxtjs.org/" target="_blank">Nuxt Documentation</a>
           <br>
