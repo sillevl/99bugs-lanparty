@@ -1,6 +1,6 @@
 body{
-  background-color: #fdf6e3;
-  color: #dc322f;
+  background-color: #268bd2 ;
+  color: #fdf6e3;
 }
 
 h1, h2{
@@ -12,16 +12,16 @@ a{
 }
 
 .top-bar, .top-bar ul {
-  background-color: #eee8d5;
+  background-color: #1d6da7;
 }
 
 .menu a {
-	color: #268bd2;
+	color: #fdf6e3;
 }
 
 .top-bar ul :hover {
-	background-color: #93a1a1;
-	color: #657b83;
+	background-color: #268bd2;
+	color: #fdf6e3;
 }
 
 #navigationbar {
@@ -29,7 +29,7 @@ a{
 }
 
 article {
-	background-color: #FBE9E7;
+	background-color: #89b1ce;
 	color: black;
 	padding: 2em;
 }
